@@ -1,4 +1,4 @@
 export const apiUrls = {
-  authServiceApi: 'https://www.hau-oces.com/api/auth/',
-  inputServiceApi: 'https://www.hau-oces.com/api/reports/',
+  authServiceApi: 'https://wdcap2-backend.onrender.com/api/auth/',
+  inputServiceApi: 'https://wdcap2-backend.onrender.com/api/reports/',
 };
